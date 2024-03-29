@@ -1,11 +1,19 @@
 let shopItemsData = [
   {
-    id: "jfhgbvnscs",
-    name: "Casual Shirt",
-    price: 45,
+    id: "cbvxbcvsceldk",
+    name: "denim shirt",
+    price: 85,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-    img: "images/img-1.jpg",
+    img: "images/img-9.png",
   },
+  {
+    id: "rtytytuyuytyytbvncv",
+    name: "leather boots",
+    price: 350,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-12.png",
+  },
+
   {
     id: "ioytrhndcv",
     name: "Office Shirt",
@@ -20,6 +28,7 @@ let shopItemsData = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "images/img-3.jpg",
   },
+
   {
     id: "thyfhcbcv",
     name: "Mens Suit",
@@ -55,13 +64,7 @@ let shopItemsData = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "images/img-8.png",
   },
-  {
-    id: "cbvxbcvsceldk",
-    name: "denim shirt",
-    price: 85,
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-    img: "images/img-9.png",
-  },
+
   {
     id: "oiopijmjkhuihb",
     name: "denim pants",
@@ -77,10 +80,10 @@ let shopItemsData = [
     img: "images/img-11.png",
   },
   {
-    id: "rtytytuyuytyytbvncv",
-    name: "leather boots",
-    price: 350,
+    id: "jfhgbvnscs",
+    name: "Casual Shirt",
+    price: 45,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-    img: "images/img-12.png",
+    img: "images/img-1.jpg",
   },
 ];
